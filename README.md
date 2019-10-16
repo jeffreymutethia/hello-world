@@ -1,5 +1,5 @@
 # hello-world
 My First Repository
-Hi Coders,
+Hi fellow coders,
 
-Jeff Here! I am a Kenyan and aspiring computer scientist. To clarify on a pressing issue: No, I am not eating antelopes while doing this, I prefer crocodiles instead!
+Jeff Here! I am a computer science student, and yes, I too walk while randomly rambling code to myself.
